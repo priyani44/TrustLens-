@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-**Live Application:** [Add your deployed application link here]
+**Live Application:** []
 
 **GitHub Repository:** https://github.com/priyani44/TrustLens-
 
